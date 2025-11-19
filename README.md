@@ -1,3 +1,3 @@
 # My-Site-2
 
-sporkocum.wuaze.com
+https://sporkocum.wuaze.com
